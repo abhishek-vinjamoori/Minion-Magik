@@ -1,0 +1,3 @@
+The makefile is named as "Makefile".
+Just run make normally.
+Additional Libraries used are - mpg123 and libao (For sound)

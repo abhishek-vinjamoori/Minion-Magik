@@ -1,0 +1,29 @@
+After running the makefile run the executable "sample2D".
+
+The controls of the game are as follows - 
+
+Player controls ~
+
+UP Arrow      - Player moves forward
+Down Arrow    - Player moves backward
+Left Arrow    - Player moves towards left
+Rigth Arrow   - Player moves towards right
+Space Bar     - Player Jumps
+
+
+
+Camera Views ~
+
+(Normal Numbers on the keyboard are mentioned)
+
+1 - Tower view.
+2 - Top follow view.
+3 - Fixed Top View
+4 - Players First person View
+5 - A Camera which is just behind the player and follows it.
+6 - A Camera which is comfortable for playing the game
+7 - Helicopter View.
+Left mouse Press and move - Panning for X and Y axes.
+Right mouse Press and move - Panning for Z axis.
+
+Scroll - Zoom in and Zoom out
